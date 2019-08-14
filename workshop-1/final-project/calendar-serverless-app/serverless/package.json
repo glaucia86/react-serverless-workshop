@@ -5,6 +5,10 @@
   "scripts": {
     "test": "echo \"No tests yet...\""
   },
-  "dependencies": {},
+  "dependencies": {
+    "@sendgrid/mail": "^6.4.0",
+    "durable-functions": "^1.2.2",
+    "nodemailer": "^6.3.0"
+  },
   "devDependencies": {}
 }
