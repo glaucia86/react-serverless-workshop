@@ -1,7 +1,7 @@
 {
-  "IsEncrypted": false,
+  "IsEncrypted": true,
   "Values": {
-    "FUNCTIONS_WORKER_RUNTIME": "node",
-    "AzureWebJobsStorage": "{AzureWebJobsStorage}"
-  }
+    "FUNCTIONS_WORKER_RUNTIME": "CfDJ8G9iL8qYBBxCtyrd1Fek2yz0hidtrpcTIEqRc1DiVFp9FZei6u/Qsa//Sfc8kp+iCqakNJ+UXTr4N9yzHbmkngLw0X2+AZ2Id4Ekj7JwA8VWMuVh1PcMcUgQpFXnL6Y1Aw=="
+  },
+  "ConnectionStrings": {}
 }
