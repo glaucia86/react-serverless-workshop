@@ -6,7 +6,7 @@ Repositório responsável pelos workshops de React.js & Serverless.
 
 ## Recursos Utilizados 🚀
 
-* **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=reactserverlessworkshop-github-gllemos)
+* **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=reactserverlessworkshop-github-gllemos)**
 * **[Node.js](https://nodejs.org/en/)**
 * **[Postman](https://www.getpostman.com/)**
 * **[Yarn](https://yarnpkg.com/pt-BR/)**
