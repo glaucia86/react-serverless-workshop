@@ -11,7 +11,8 @@ Repositório responsável pelos workshops de React.js & Serverless.
 * **[Postman](https://www.getpostman.com/)**
 * **[Yarn](https://yarnpkg.com/pt-BR/)**
 * **[JAMStack](https://jamstack.org/)**
-* **[Conta - Azure](https://azure.microsoft.com/pt-br/?WT.mc_id=reactserverlessworkshop-github-gllemos)* **[Azure Web App Service](https://azure.microsoft.com/services/app-service/?WT.mc_id=reactserverlessworkshop-github-gllemos)**
+* **[Conta - Azure](https://azure.microsoft.com/pt-br/?WT.mc_id=reactserverlessworkshop-github-gllemos)**
+* **[Azure Web App Service](https://azure.microsoft.com/services/app-service/?WT.mc_id=reactserverlessworkshop-github-gllemos)**
 - **[Extensão Visual Studio Code: Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=reactserverlessworkshop-github-gllemos)**
 * **[Azure Storage Account](https://azure.microsoft.com/pt-br/services/storage/?WT.mc_id=reactserverlessworkshop-github-gllemos)**
 
