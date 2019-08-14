@@ -1,12 +1,16 @@
-# Workshop - React.js com Serverless
+# Workshop - React.js & Serverless
 
-Repositório responsável pelos workshops de React.js com Serverless.
+[![bit-community.png](https://i.postimg.cc/zGhWZqX7/bit-community.png)](https://postimg.cc/bZzd1cnS)
+
+Repositório responsável pelos workshops de React.js & Serverless.
 
 ## Recursos Utilizados 🚀
 
 * **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=reactserverlessworkshop-github-gllemos)
 * **[Node.js](https://nodejs.org/en/)**
 * **[Postman](https://www.getpostman.com/)**
+* **[Yarn](https://yarnpkg.com/pt-BR/)**
+* **[JAMStack](https://jamstack.org/)**
 * **[Conta - Azure](https://azure.microsoft.com/pt-br/?WT.mc_id=reactserverlessworkshop-github-gllemos)* **[Azure Web App Service](https://azure.microsoft.com/services/app-service/?WT.mc_id=reactserverlessworkshop-github-gllemos)**
 - **[Extensão Visual Studio Code: Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=reactserverlessworkshop-github-gllemos)**
 * **[Azure Storage Account](https://azure.microsoft.com/pt-br/services/storage/?WT.mc_id=reactserverlessworkshop-github-gllemos)**
@@ -22,8 +26,6 @@ Para a realização dos workshops de React.js, se faz necessário ter noções d
 * **[Crie um site simples usando HTML, CSS e JavaScript](https://docs.microsoft.com/learn/modules/build-simple-website/?WT.mc_id=reactserverlessworkshop-github-gllemos)**
 
 * **[Desenvolva aplicativos Web com o Visual Studio Code](https://docs.microsoft.com/learn/modules/develop-web-apps-with-vs-code/?WT.mc_id=reactserverlessworkshop-github-gllemos)**
-
-* **[Curoso]()**
 
 Realizando esses 2 cursos, vocês já estarão aptos para realizar os workshops:
 
