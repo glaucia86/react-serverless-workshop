@@ -1,0 +1,77 @@
+.calendar {
+  border: 2px solid #f6f7fa;
+  border-radius: 6px;
+  padding: 10px;
+  background-color: #ffffff;
+}
+
+.calendar .rbc-off-range-bg {
+  background-color: #f1f1f1;
+}
+
+.calendar .rbc-date-cell {
+  margin-top: 15px;
+  margin-right: 15px;
+}
+
+.calendar .rbc-month-view {
+  border: 2px solid #f6f7fa;
+}
+
+.calendar .rbc-day-bg + .rbc-day-bg {
+  border: 1px solid #f6f7fa;
+}
+
+.calendar row {
+  border: 1px solid #f6f7fa;
+}
+
+.calendar .rbc-month-row + .rbc-month-row {
+  border-top: 1px solid #f6f7fa;
+}
+
+.calendar .rbc-date-cell > a {
+  font-size: 10px;
+}
+
+.calendar .rbc-event {
+  background-color: #e8effa;
+  border-radius: 0;
+  color: #004fd4;
+  border-left: 2px solid #004fd4;
+  margin-left: -1px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.calendar .rbc-today {
+  background-color: #e8effa;
+}
+
+.calendar .rbc-header + .rbc-header {
+  border: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.calendar .rbc-header {
+  font-weight: 400;
+  color: #b3b3b3;
+}
+
+.Popover-tip {
+  fill: #ffffff;
+  stroke: #f6f7fa;
+  stroke-width: 2px;
+}
+
+.Popover-body {
+  border: 2px solid #f6f7fa;
+  padding: 10px 5px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.1);
+}
+
+.Popover, .ReactModal__Overlay{
+  z-index: 1000;
+}
